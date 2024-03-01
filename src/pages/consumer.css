@@ -1,0 +1,19 @@
+.viewMessage {
+  margin-left: 50%;
+  margin-top: 40px;
+}
+.btn-light {
+  background-color: #d2d2d2d2;
+  font-weight: bold;
+}
+.bi-eye {
+  font-weight: bold;
+}
+
+.color-background {
+  background-color: #ffdfdb;
+  text-align: center;
+}
+.body {
+  text-align: center;
+}

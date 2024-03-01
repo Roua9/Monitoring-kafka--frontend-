@@ -1,0 +1,43 @@
+.dropright {
+  margin-left: 45%;
+  margin-top: 80px;
+}
+
+.btn-secondary {
+  background-color: #082bcb;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
+
+.btn-secondary:hover {
+  background-color: #082bcb;
+}
+.btn-secondary:enabled {
+  background-color: #082bcb;
+}
+
+.form-group {
+  margin-left: 35%;
+  width: 40%;
+  margin-top: 70px;
+}
+.btn-outline {
+  margin-left: 70%;
+  color: #ca3c66;
+  border-color: #ca3c66;
+  font-weight: bold;
+}
+.btn-outline:hover {
+  background-color: #f493a0;
+  color: #060606;
+  font-weight: bold;
+}
+.form .form-control {
+  color: rgb(8, 9, 10);
+  text-align: center;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #ffcad1;
+  border-color: #ca3c66;
+}
